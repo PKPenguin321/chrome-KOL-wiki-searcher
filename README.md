@@ -1,5 +1,5 @@
 # chrome-KOL-wiki-searcher
-stupid simple extension for chrome that lets you access the KoL wiki more easily.
+stupid simple extension for chrome that lets you access the KoL (that is, the Kingdom of Loathing) wiki more easily.
 
 just click the extension button, type in a keyword (such as an item or quest name), push go (or hit enter), and it will attempt to redirect you to a wiki page.
 
