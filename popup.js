@@ -9,7 +9,7 @@ let searchTerm = document.getElementById('searchTerm');
   doSearch.onclick = function(element) {
     var inputText = searchTerm.value;
 	var correctedInput = inputText.replace(" ", "_");
-	var newUrl = "http://kol.coldfront.net/thekolwiki/index.php/" + correctedInput;
+	var newUrl = "http://kol.coldfront.net/thekolwiki/index.php/Special:Search/" + correctedInput;
 	console.log("URL is " + newUrl + " time to open page!");
 	window.open(newUrl, '_blank');
   };
